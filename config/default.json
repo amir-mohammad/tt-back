@@ -1,0 +1,4 @@
+{
+    "MongoURI":"mongodb://localhost:27017/tt-toy-store",
+    "secretKey": "tt-toy-store-key"
+}
